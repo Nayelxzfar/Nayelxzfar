@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on open-source projects related to fullstack development, especially with PHP, JavaScript, React, Next.js, Angular, and Ruby.
 - 📫 How to reach me: Email me at nayelazfar@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once built a full web app in a single weekend just for fun—and it’s still running today!
+- ⚡ Fun fact: I once built a full web app in a single weekend just for fun. and it’s still running today!
