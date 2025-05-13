@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Nayelxzfar (Nayel Azfar)
+- 👀 I’m interested in building scalable web applications, experimenting with new web technologies, and creating clean UI/UX experiences.
+- 🌱 I’m currently learning advanced TypeScript, WebAssembly, and exploring AI integration in web apps.
+- 💞️ I’m looking to collaborate on open-source projects related to fullstack development, especially with PHP, JavaScript, React, Next.js, Angular, and Ruby.
+- 📫 How to reach me: Email me at nayelazfar@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a full web app in a single weekend just for fun—and it’s still running today!
